@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This responsive site showcases my deve
 
 ## 🌐 Live Preview
 
-👉 [[GitHub Pages (optional – add your link here)](https://prifry.github.io/your-portfolio-repo/)](https://prifry.github.io/PriscilaPortofolio/)
+👉 https://prifry.github.io/PriscilaPortofolio/
 
 ---
 
