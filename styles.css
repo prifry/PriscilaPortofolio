@@ -90,6 +90,23 @@ html {
   to { opacity: 1; transform: translateY(0); }
 }
 
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .welcome-content {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+
+  .welcome-text {
+    text-align: center;
+  }
+
+  .welcome-img img {
+    width: 180px;
+    height: 180px;
+    margin-bottom: 20px;
+  }
+}
 /* Skills Section */
 #skills {
   background: #fff;
